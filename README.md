@@ -34,3 +34,15 @@ Based on the conceptual model developed, create a logical ER diagram as followin
 
 ![Logical ER diagram for M G drawio](https://user-images.githubusercontent.com/106580846/217202101-edff0f68-e871-4dbb-bd5c-4dfee69d5969.png)
 
+## Mission 2: Design a database model in MySQL Workbench
+Mangata & Gallo (M&G) jewelry store wants to make use of the logical database model outlined in the diagram below. Develop this model using MySQL Workbench and implementing it in your MySQL server.
+
+![image](https://user-images.githubusercontent.com/106580846/217250134-d76a42cd-541d-49ab-a980-58af37b7dbd5.png)
+
+#### Task 1: Create an ER diagram
+Using the visual data modeling tool in MySQL Workbench to create the proposed ER diagram for M&G. 
+
+![er diagram mysql bench](https://user-images.githubusercontent.com/106580846/217263905-83092f58-253b-4d71-8a8c-30316ae74759.png)
+
+
+
