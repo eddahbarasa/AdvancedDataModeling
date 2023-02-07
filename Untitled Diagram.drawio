@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T09:20:03.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Vq7Dp6siep2ufOnPhWKc" version="20.8.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-07T09:20:59.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fohXKzq1TcXlsbeGPcw3" version="20.8.16" type="github" pages="2">
   <diagram name="Conceptual diagram for M&amp;G database" id="70sGn6P5sg5wczugAP7z">
     <mxGraphModel dx="1956" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -418,9 +418,6 @@
         </mxCell>
         <mxCell id="51Tm6lMwvfpiNofFBCZj-93" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Task 2: Create a logical ER diagram&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="450" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1_HDuDb_SPC6K24kOOMx-1" value="EDDA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="280" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
