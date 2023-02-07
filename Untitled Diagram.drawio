@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T08:52:38.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="TnDv3_9yofviuIby0eXL" version="20.8.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-07T08:56:01.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fNzddelov9bK4CeUqXUg" version="20.8.16" type="github" pages="2">
   <diagram name="Conceptual diagram for M&amp;G database" id="70sGn6P5sg5wczugAP7z">
     <mxGraphModel dx="1956" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="51Tm6lMwvfpiNofFBCZj-36" value="Products" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="780" y="90" width="310" height="180" as="geometry" />
+          <mxGeometry x="830" y="80" width="310" height="180" as="geometry" />
         </mxCell>
         <mxCell id="51Tm6lMwvfpiNofFBCZj-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=16;" vertex="1" parent="51Tm6lMwvfpiNofFBCZj-36">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
@@ -265,8 +265,11 @@
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="51Tm6lMwvfpiNofFBCZj-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="51Tm6lMwvfpiNofFBCZj-53" target="51Tm6lMwvfpiNofFBCZj-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="51Tm6lMwvfpiNofFBCZj-53" value="Delivery" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="320" height="210" as="geometry" />
+          <mxGeometry x="520" y="420" width="320" height="210" as="geometry" />
         </mxCell>
         <mxCell id="51Tm6lMwvfpiNofFBCZj-54" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=16;" vertex="1" parent="51Tm6lMwvfpiNofFBCZj-53">
           <mxGeometry y="30" width="320" height="30" as="geometry" />
@@ -400,6 +403,15 @@
           <mxGeometry x="30" width="325" height="30" as="geometry">
             <mxRectangle width="325" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="51Tm6lMwvfpiNofFBCZj-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;endArrow=ERmany;endFill=0;strokeColor=none;startArrow=none;startFill=0;" edge="1" parent="1" source="51Tm6lMwvfpiNofFBCZj-5" target="51Tm6lMwvfpiNofFBCZj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51Tm6lMwvfpiNofFBCZj-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="51Tm6lMwvfpiNofFBCZj-14" target="51Tm6lMwvfpiNofFBCZj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="51Tm6lMwvfpiNofFBCZj-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="51Tm6lMwvfpiNofFBCZj-27" target="51Tm6lMwvfpiNofFBCZj-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
