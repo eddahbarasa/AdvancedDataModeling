@@ -141,6 +141,9 @@ Global Super Store want to investigate their business performance in Africa. Cre
 *	Quantity sold
 *	Sales figures 
 
+![tableau 1](https://user-images.githubusercontent.com/106580846/217529081-09bd7c33-2753-42c4-b1bf-ef7acbc549a3.png)
+
+Here is a link to the dashboard on Tableau Public https://public.tableau.com/views/GlobalSuperStoreSalesinAfrica/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 
