@@ -85,7 +85,7 @@ Global Super Store have experienced a decline in their profits in the last few y
 
 Global Super Store needs to understand how these factors are affecting their sales and profits. They need to compare data amongst different customers, products, times and locations to understand the problem. 
  
-## Task 1: Identify key information
+#### Task 1: Identify key information
 Identifying the business process you want to deal with in this case it is the sales process. Identify the grain, the dimensions and the measures to be used to build the dimensional model. 
 
 **Levels of granularity:**
@@ -104,7 +104,7 @@ Identifying the business process you want to deal with in this case it is the sa
 *	The quantity sold of each product
 *	The shipping cost of each product 
 
-## Task 2: Create a star schema
+#### Task 2: Create a star schema
 
 Create a Star Schema based on the dimensions and facts identified in task 1. 
 Create the dimensions and the fact tables including relevant attributes and data types in each table.
@@ -112,9 +112,35 @@ Define the primary and the foreign keys in the data model.
 
 ![stars chema](https://user-images.githubusercontent.com/106580846/217501000-7ff21e75-0704-422a-ab2a-b376c2f098c2.png)
 
-## Task 3: Create a snowflake schema
+#### Task 3: Create a snowflake schema
 
 Extend the Star Schema developed in task 2 by creating a suitable Snowflake Schema with a particular focus on the products dimension.
 
 ![snow flake schema](https://user-images.githubusercontent.com/106580846/217504694-a4e1db66-88c8-4568-a1dc-f67e8cf83fab.png)
+
+## Mission 4:  Data analysis in Tableau
+The Global Super Store dataset includes more than 51000 records of data about customers, orders and products in  MS Excel file. We now need to analyze this data to understand their business activities and maximize their profits.
+
+The tasks are completed in **Tableau**.
+
+#### Task 1: Prepare the data set for analysis
+Connect to the Global Super Store data set.
+
+![b4](https://user-images.githubusercontent.com/106580846/217525879-d88cacbd-ce09-41dc-a4f3-69d2735828cf.png)
+
+Prepare it for data analysis by making sure that all fields like the Order date and the Ship date contain the correct data types.
+
+Create a new calculated field called Warranty based on 90 days from the order date.
+
+![after](https://user-images.githubusercontent.com/106580846/217526124-05f70306-a208-47ce-a3b5-6714f6763e4d.png)
+
+#### Task 2: Create a map chart
+
+Global Super Store want to investigate their business performance in Africa. Create a map chart that shows sales in different countries in Africa. The map should show the sales in proportional sizes. If you rollover a country, you should be able to see:
+*	Country name,
+*	Quantity sold
+*	Sales figures 
+
+
+
 
