@@ -44,11 +44,36 @@ Using the visual data modeling tool in MySQL Workbench to create the proposed ER
 
 ![er diagram mysql bench](https://user-images.githubusercontent.com/106580846/217263905-83092f58-253b-4d71-8a8c-30316ae74759.png)
 
+**NOTE: Do not use "&" (or any symblol) when naming a database like I did, running a query with it is dramaaa**
+
 ## Task 2: Implement the internal schema
 Use MySQL Workbench’s forward engineer feature to implement the internal schema in your MySQL server.
 
-It should be able to appear the schema list in the navigator section.
+It then should be able to appear the schema list in the navigator section.
 
 ![schema list](https://user-images.githubusercontent.com/106580846/217271843-d44ec408-23b0-4a20-9375-d18f65a65bdf.png)
+
+#### Task 3: Populate the M&G database & create view
+Populate the M&G database with data provided using the SQL Workbench editor. 
+
+Use the INSERT statements.
+
+![insert code](https://user-images.githubusercontent.com/106580846/217471138-fa70aa70-9c91-4bd9-9015-a19190644880.png)
+
+Create a virtual table to easily find information on orders. This information must contain data from all tables including:
+*	Clients
+*	Orders 
+*	Products 
+*	Delivery 
+* Address
+
+![create view](https://user-images.githubusercontent.com/106580846/217477479-d096934d-11d1-44ae-81db-7b343857ecff.png)
+
+The output will be ..........
+
+![view](https://user-images.githubusercontent.com/106580846/217477708-2949cda4-2dfe-43a1-b830-6b4d9841b4d7.png)
+
+
+
 
 
