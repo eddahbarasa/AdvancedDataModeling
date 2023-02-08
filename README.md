@@ -157,4 +157,14 @@ Create a bar chart in Tableau called Profits in Africa. When you rollover a bar,
 
 **Here is a link to the worksheet on Tableau Public** https://public.tableau.com/views/GlobalSuperStoreProfitsinAfrica/ProfitsinAfrica?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+#### Step 4: Create a dashboard
+Develop a dashboard that includes the two visualizations created: Sales in Africa map  and the profits in Africa bar chart
+
+![dash 2](https://user-images.githubusercontent.com/106580846/217538087-82480140-7673-48a6-bdf3-8457ae6b0da6.png)
+
+Make the dashboard interactive so that when you click on a specific country in the map the information related to that country will be displayed in the bar chart.
+
+![dash 1](https://user-images.githubusercontent.com/106580846/217538140-fbe0bca0-852d-4e86-a39c-7e1eae5e40c0.png)
+
+**Here is a link to the dashboard on Tableau Public** https://public.tableau.com/views/GlobalSuperStoreSalesProfitsDashboard/AfricaSalesProfitDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
