@@ -116,4 +116,5 @@ Define the primary and the foreign keys in the data model.
 
 Extend the Star Schema developed in task 2 by creating a suitable Snowflake Schema with a particular focus on the products dimension.
 
+![snow flake schema](https://user-images.githubusercontent.com/106580846/217504694-a4e1db66-88c8-4568-a1dc-f67e8cf83fab.png)
 
