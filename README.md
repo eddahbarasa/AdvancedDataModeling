@@ -73,7 +73,47 @@ The output will be ..........
 
 ![view](https://user-images.githubusercontent.com/106580846/217477708-2949cda4-2dfe-43a1-b830-6b4d9841b4d7.png)
 
+## Mission 3: Create a dimensional data model
 
+Create a dimensional model for Global Super Store to help them make sense of their sales and profits.
+Global Super Store have experienced a decline in their profits in the last few years.There are several factors that impacted their profits including:
+*	Global instability around shipping and product costs.
+*	New competitors appearing in different markets around the world.
+*	Out of date products.
+*	Emerging new technologies.
+*	The development of new products. 
 
+Global Super Store needs to understand how these factors are affecting their sales and profits. They need to compare data amongst different customers, products, times and locations to understand the problem. 
+ 
+## Task 1: Identify key information
+Identifying the business process you want to deal with in this case it is the sales process. Identify the grain, the dimensions and the measures to be used to build the dimensional model. 
+
+**Levels of granularity:**
+* Region, country and city
+*	Year, quarter, month, day or event levels
+*	Category, subcategory and items
+
+**The dimensions:** 
+*	Location
+*	Time
+*	Product
+*	Customers
+
+**The facts:**
+*	The buy and sale prices of all products
+*	The quantity sold of each product
+*	The shipping cost of each product 
+
+## Task 2: Create a star schema
+
+Create a Star Schema based on the dimensions and facts identified in task 1. 
+Create the dimensions and the fact tables including relevant attributes and data types in each table.
+Define the primary and the foreign keys in the data model.
+
+![stars chema](https://user-images.githubusercontent.com/106580846/217501000-7ff21e75-0704-422a-ab2a-b376c2f098c2.png)
+
+## Task 3: Create a snowflake schema
+
+Extend the Star Schema developed in task 2 by creating a suitable Snowflake Schema with a particular focus on the products dimension.
 
 
