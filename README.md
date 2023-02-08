@@ -143,7 +143,18 @@ Global Super Store want to investigate their business performance in Africa. Cre
 
 ![tableau 1](https://user-images.githubusercontent.com/106580846/217529081-09bd7c33-2753-42c4-b1bf-ef7acbc549a3.png)
 
-Here is a link to the dashboard on Tableau Public https://public.tableau.com/views/GlobalSuperStoreSalesinAfrica/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+**Here is a link to the worksheet on Tableau Public** https://public.tableau.com/views/GlobalSuperStoreSalesinAfrica/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+#### Task 3: Create a bar chart
+Global Super Store want to check the profits made in each country in Africa. However, they are only interested in data from countries where they have made at least $500 in profit. 
+
+Create a bar chart in Tableau called Profits in Africa. When you rollover a bar, you should be able to see 
+*	Name of the country,
+*	Profits 
+*	Shipping cost
+
+![bar chart](https://user-images.githubusercontent.com/106580846/217535706-9dff422d-7952-46e5-a367-9e294c68d842.png)
+
+**Here is a link to the worksheet on Tableau Public** https://public.tableau.com/views/GlobalSuperStoreProfitsinAfrica/ProfitsinAfrica?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
