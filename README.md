@@ -46,8 +46,10 @@ Using the visual data modeling tool in MySQL Workbench to create the proposed ER
 
 **NOTE: Do not use "&" (or any symblol) when naming a database like I did, running a query with it is dramaaa**
 
-## Task 2: Implement the internal schema
+#### Task 2: Implement the internal schema
 Use MySQL Workbench’s forward engineer feature to implement the internal schema in your MySQL server.
+
+![forward engineering](https://user-images.githubusercontent.com/106580846/218455874-3377a870-b5fa-4cf3-b6ac-319191cde778.png)
 
 It then should be able to appear the schema list in the navigator section.
 
