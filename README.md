@@ -139,11 +139,13 @@ Create a new calculated field called Warranty based on 90 days from the order da
 #### Task 2: Create a map chart
 
 Global Super Store want to investigate their business performance in Africa. Create a map chart that shows sales in different countries in Africa. The map should show the sales in proportional sizes. If you rollover a country, you should be able to see:
-*	Country name,
+*	Country name
 *	Quantity sold
 *	Sales figures 
 
 ![tableau 1](https://user-images.githubusercontent.com/106580846/217529081-09bd7c33-2753-42c4-b1bf-ef7acbc549a3.png)
+ 
+From the visualization we can easily determine the countries with the highest and lowest sales and their quantities.
 
 **Here is a link to the worksheet on Tableau Public** https://public.tableau.com/views/GlobalSuperStoreSalesinAfrica/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
@@ -151,11 +153,13 @@ Global Super Store want to investigate their business performance in Africa. Cre
 Global Super Store want to check the profits made in each country in Africa. However, they are only interested in data from countries where they have made at least $500 in profit. 
 
 Create a bar chart in Tableau called Profits in Africa. When you rollover a bar, you should be able to see 
-*	Name of the country,
+*	Name of the country
 *	Profits 
 *	Shipping cost
 
 ![bar chart](https://user-images.githubusercontent.com/106580846/217535706-9dff422d-7952-46e5-a367-9e294c68d842.png)
+
+From the visualisation we can easily determine the country with the highest and lowest profits, estimate the median though we can't determine if there is a relationship between profit and shipping cost, we would need a different chart, a scatter plot, for that
 
 **Here is a link to the worksheet on Tableau Public** https://public.tableau.com/views/GlobalSuperStoreProfitsinAfrica/ProfitsinAfrica?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
@@ -164,7 +168,7 @@ Develop a dashboard that includes the two visualizations created: Sales in Afric
 
 ![dash 2](https://user-images.githubusercontent.com/106580846/217538087-82480140-7673-48a6-bdf3-8457ae6b0da6.png)
 
-Make the dashboard interactive so that when you click on a specific country in the map the information related to that country will be displayed in the bar chart.
+The dashboard can be made interactive so that when you click on a specific country in the map the information related to that country will be displayed in the bar chart.
 
 ![dash 1](https://user-images.githubusercontent.com/106580846/217538140-fbe0bca0-852d-4e86-a39c-7e1eae5e40c0.png)
 
