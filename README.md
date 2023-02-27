@@ -1,5 +1,13 @@
 # AdvancedDataModeling
 
+Welcome to my take on data modelling, in this journey I will
+*	Design a conceptual model using draw.io
+* Use MySQL Workbench to build er diagrams 
+*	Use the forward engineering method to create databases
+*	Design a relational database model by using a systematic approach and applying the correct normalization levels.
+*	Build a dimensional data model.
+*	Data visualization... connecting and preparing data in Tableau and creating interactive dashboards in Tableau.
+
 ## Mission 1: Design a database model for M&G
 
 Objective: Design a simplified logical relational database model for Mangata and Gallo.
